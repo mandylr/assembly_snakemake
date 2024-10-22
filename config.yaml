@@ -1,0 +1,4 @@
+sra_number: "SRR30810013"
+fastq_dir: "results/fastq/"
+assembly_dir: "results/assembly/"
+annotation_dir: "results/annotation/"
